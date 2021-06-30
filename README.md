@@ -2,7 +2,7 @@ echo "# test" >> README.md
 
 git init
 
-git add README.md  //add เฉยๆ จะเอาไปทั้งหมด
+git add README.md  
 
 git commit -m "first commit"
 
@@ -12,4 +12,4 @@ git remote add origin https://github.com/WuthichaiKung/test.git
 
 git push -u origin main
 
------------------
+1111111111111111111111111111111
